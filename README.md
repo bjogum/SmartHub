@@ -42,7 +42,7 @@ Reed Switch (door / window)
 Gas sensor MQ2
 Temp sensor NTC
 Rain Water sensor
->>>>>>> c7ca27dc394cf72929e910230d5ee5cf182b33eb
+
 
 ### Software Components
 
