@@ -11,10 +11,10 @@ Network configuration and security
 Mobile app for remote monitoring and control
 
 **Excluded** (for safety and privacy reasons):
-**No** integration with external apps or services like Google
-**No** microphone (no voice recording or voice recognition)
-**No** camera (no video monitoring)
-**No** third party data sharing
+- **No** integration with external apps or services like Google
+- **No** microphone (no voice recording or voice recognition)
+- **No** camera (no video monitoring)
+- **No** third party data sharing
 
 
 ## Hardware Architecture
