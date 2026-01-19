@@ -22,12 +22,22 @@ Mobile app for remote monitoring and control
 ### Hardware Components
 - Display: [3.2" Touch Display](https://www.amazon.se/dp/B07PKB691V/ref=sspa_dk_detail_1?pd_rd_i=B07PKB691V&pd_rd_w=TwqEg&content-id=amzn1.sym.952b25a7-f1aa-48f8-81f4-555c2c111a1c&pf_rd_p=952b25a7-f1aa-48f8-81f4-555c2c111a1c&pf_rd_r=3GGTRKJ2E0563R0MY15A&pd_rd_wg=iuttN&pd_rd_r=899f87bb-970c-43ec-af7e-41a963e74899&aref=jCyRA0eT9a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)
 
-<<<<<<< HEAD
+
+### Code
+**lots and lots and lots of code**
+
+
+ESP32 - Microcontroller (gateway)
+Raspberry Pi Zero 2W (node 1) 
+Arduino Uno R4 (node 2)
+
+
 - RFID Sensor: [Alternativ 1](https://amzn.eu/d/filleh1) [Alternativ 2](https://www.electrokit.com/rfid-modul-13.56mhz-med-2-taggar-rc522)
-=======
+
 **ESP32 - Microcontroller** (gateway)
 **Raspberry Pi Zero 2W** (node 1) 
 **Arduino Uno R4** (node 2)
+
 
 **Components:**
 - ILI9341 1x3.2” TFT Touch Display
@@ -40,7 +50,8 @@ Mobile app for remote monitoring and control
 - Gas sensor MQ2
 - Temp sensor NTC
 - Rain Water sensor
->>>>>>> 546900f8b78548d498987861596a320e2dec19b6
+
+
 
 ### Software Components
 1. Embedded UI: LVGL
