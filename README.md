@@ -39,9 +39,9 @@ Mobile app for remote monitoring and control
 - Rain Water sensor
 
 ### Software Components
-1. Embedded UI: LVGL
-2. Web UI: Figma
-3. Enviroment: platform.IO
+- Embedded UI: LVGL
+- Web UI: Figma
+- Enviroment: platform.IO
 
 ```mermaid
 
