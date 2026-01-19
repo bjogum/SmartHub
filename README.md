@@ -15,4 +15,5 @@ Mobile app for remote monitoring and control
 
 ### Hardware Components
 
-### Software Components
+### Code
+**lots and lots and lots of code**
