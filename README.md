@@ -70,5 +70,3 @@ flowchart LR
   A[Start] --> B{Decision}
   B -->|Yes| C[Continue]
   B -->|No| D[Stop]
-
-Jag hoppas att det går nu
