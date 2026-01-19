@@ -22,6 +22,22 @@ Mobile app for remote monitoring and control
 ### Hardware Components
 - Display: [3.2" Touch Display](https://www.amazon.se/dp/B07PKB691V/ref=sspa_dk_detail_1?pd_rd_i=B07PKB691V&pd_rd_w=TwqEg&content-id=amzn1.sym.952b25a7-f1aa-48f8-81f4-555c2c111a1c&pf_rd_p=952b25a7-f1aa-48f8-81f4-555c2c111a1c&pf_rd_r=3GGTRKJ2E0563R0MY15A&pd_rd_wg=iuttN&pd_rd_r=899f87bb-970c-43ec-af7e-41a963e74899&aref=jCyRA0eT9a&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1)
 
+ESP32 - Microcontroller (gateway)
+Raspberry Pi Zero 2W (node 1) 
+Arduino Uno R4 (node 2)
+
+Components:
+ILI9341 1x3.2” TFT Touch Display
+Temperature and humidity sensor DHT11
+Temperature sensor DS18B20
+PIR Motion Sensor 
+Buzzer (passive)
+Lights
+Reed Switch (door / window)
+Gas sensor MQ2
+Temp sensor NTC
+Rain Water sensor
+
 ### Software Components
 
 ```mermaid
