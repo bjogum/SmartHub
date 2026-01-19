@@ -43,13 +43,14 @@ Mobile app for remote monitoring and control
 2. Web UI: Figma
 3. Enviroment: platform.IO
 
+### Network Configuration
+- WiFi connection using MQTT and HTTP
+- Security: WPA2/WP3 for WiFi
+ 
+
+*Mermaid test:*
 ```mermaid
 
----
-config:
-  look: handDrawn
-  theme: neutral
----
 flowchart LR
   A[Start] --> B{Decision}
   B -->|Yes| C[Continue]
