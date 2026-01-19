@@ -39,6 +39,9 @@ Temp sensor NTC
 Rain Water sensor
 
 ### Software Components
+1. Embedded UI: LVGL
+2. Web UI: Figma
+3. Enviroment: platform.IO
 
 ```mermaid
 
