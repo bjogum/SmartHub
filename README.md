@@ -43,6 +43,9 @@ Mobile app for remote monitoring and control
 >>>>>>> 546900f8b78548d498987861596a320e2dec19b6
 
 ### Software Components
+1. Embedded UI: LVGL
+2. Web UI: Figma
+3. Enviroment: platform.IO
 
 ```mermaid
 
