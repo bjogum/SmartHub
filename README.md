@@ -26,17 +26,17 @@ ESP32 - Microcontroller (gateway)
 Raspberry Pi Zero 2W (node 1) 
 Arduino Uno R4 (node 2)
 
-Components:
-ILI9341 1x3.2” TFT Touch Display
-Temperature and humidity sensor DHT11
-Temperature sensor DS18B20
-PIR Motion Sensor 
-Buzzer (passive)
-Lights
-Reed Switch (door / window)
-Gas sensor MQ2
-Temp sensor NTC
-Rain Water sensor
+**Components:**
+- ILI9341 1x3.2” TFT Touch Display
+- Temperature and humidity sensor DHT11
+- Temperature sensor DS18B20
+- PIR Motion Sensor 
+- Buzzer (passive)
+- Lights
+- Reed Switch (door / window)
+- Gas sensor MQ2
+- Temp sensor NTC
+- Rain Water sensor
 
 ### Software Components
 
