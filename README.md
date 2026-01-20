@@ -27,16 +27,11 @@ Mobile app for remote monitoring and control
 **lots and lots and lots of code**
 
 
-ESP32 - Microcontroller (gateway)
-Raspberry Pi Zero 2W (node 1) 
-Arduino Uno R4 (node 2)
-
-
 - RFID Sensor: [Alternativ 1](https://amzn.eu/d/filleh1) [Alternativ 2](https://www.electrokit.com/rfid-modul-13.56mhz-med-2-taggar-rc522)
 
-**ESP32 - Microcontroller** (gateway)
-**Raspberry Pi Zero 2W** (node 1) 
-**Arduino Uno R4** (node 2)
+- **ESP32 - Microcontroller** (gateway)
+- **Raspberry Pi Zero 2W** (node 1) 
+- **Arduino Uno R4** (node 2)
 
 
 **Components:**
