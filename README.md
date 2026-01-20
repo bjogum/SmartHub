@@ -24,15 +24,15 @@ Mobile app for remote monitoring and control
 #### ILI9341
 Display-controller; a chip on the module that receives commands via SPI. It has its own internal registers, such as orientation and colour-formatting.
 The ESP32 doesn't write anything on on the screen itself, but it sends instructions and pixeldata to the controller.
-    ESP32-H2
-        |
-        |  SPI (commands + pixeldata)
-        v
-    ILI9341-controller
-        |
-        |  paralell signals
-        v
-    TFT-panel (320 × 240 pixels)
+>    ESP32-H2
+>        |
+>        |  SPI (commands + pixeldata)
+>        v
+>    ILI9341-controller
+>        |
+>        |  paralell signals
+>        v
+>    TFT-panel (320 × 240 pixels)
 
 ### Code
 **lots and lots and lots of code**
